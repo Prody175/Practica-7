@@ -1,0 +1,23 @@
+h1 {
+    color: greenyellow;
+}
+
+p {
+    color: red;
+}
+
+ul.circulo {
+    list-style-type: circle;
+}
+
+ol.numero {
+    list-style-type: 1;
+}
+
+ol.romano {
+    list-style-type: upper-roman;
+}
+
+ol.minuscula {
+    list-style-type: lower-alpha;
+}
